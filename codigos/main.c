@@ -9,7 +9,7 @@ int main(){
     int result = 1;
     int c = 1;
     paciente novo;
-    printf("criar lista de pacientes? (1/0)");
+    printf("criar lista de pacientes?  (1/0)");
     scanf("%d", &c);
     if(1 == 1){
         heap *hospital = heap_cria();
